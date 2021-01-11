@@ -1,3 +1,10 @@
+# FORKED REPO
+
+This repo has been forked to allow sock-shop installation within kubernetes plain 1.18.
+
+Thanks @RubyKoviar <https://github.com/RubyKoviar> for the solution to the installation problem proposed here: https://github.com/microservices-demo/microservices-demo/issues/802#issuecomment-648769932
+
+
 [![Build Status](https://travis-ci.org/microservices-demo/microservices-demo.svg?branch=master)](https://travis-ci.org/microservices-demo/microservices-demo)
 
 # Sock Shop : A Microservice Demo Application
